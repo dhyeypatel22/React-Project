@@ -79,31 +79,33 @@ export default function Navbar() {
             data-te-dropdown-menu-ref=""
           >
           </ul>
+          <NavLink
+  className="hidden-arrow flex items-center whitespace-nowrap transition duration-150 ease-in-out motion-reduce:transition-none"
+  to="/admin"
+  id="dropdownMenuButton2"
+  role="button"
+  data-te-dropdown-toggle-ref=""
+  aria-expanded="false"
+>
+  <img
+    src="https://mdbcdn.b-cdn.net/img/new/avatars/1.webp"
+    className="w-6 h-6 rounded-full shadow-lg mt-1 mr-2"
+    alt="Avatar"
+  />
+</NavLink>
+ 
+          
+          {/* <div>
+            <NavLink class="inline-block text-sm px-4 py-2 leading-none border    rounded text-white hover:bg-orange-600  lg:mt-0 ml-9" to="/signup">Sign In</NavLink>
+          </div> */}
         </div>
         
-        <div className="relative" data-te-dropdown-ref="">
+        
           
-          <NavLink
-            className="hidden-arrow flex items-center whitespace-nowrap transition duration-150 ease-in-out motion-reduce:transition-none"
-            to="/admin"
-            id="dropdownMenuButton2"
-            role="button"
-            data-te-dropdown-toggle-ref=""
-            aria-expanded="false"
-          >
-            
-            <img
-               src="https://mdbcdn.b-cdn.net/img/new/avatars/1.webp"
-               className="w-6 rounded-full shadow-lg mt-6"
-               alt="Avatar"
-            />
-          </NavLink>
-          <div>
-            <NavLink class="inline-block text-sm px-4 py-2 leading-none border    rounded text-white hover:bg-orange-600  lg:mt-0 ml-9" to="/signup">Sign In</NavLink>
-          </div>
+         
         </div>
       </div>
-    </div>
+    
   </nav>
 </>
 
