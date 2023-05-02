@@ -46,6 +46,7 @@ function Hero() {
                 href="/details"
                 role="button"
               >
+                signup
               </a>
             </div>
           </div>
