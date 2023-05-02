@@ -7,7 +7,7 @@ export default function Navbar() {
     <>
   
   <nav
-    className="relative flex w-full flex-wrap items-center justify-between bg-gray-900 py-2 text-neutral-200 shadow-lg lg:flex-wrap lg:justify-start lg:py-4"
+    className="fixed top-0 left-0 z-50 w-full flex items-center justify-between bg-gray-900 py-2 text-neutral-200 shadow-lg lg:flex-wrap lg:justify-start lg:py-4"
     data-te-navbar-ref=""
   >
     <div className="flex w-full flex-wrap items-center justify-between px-3">
