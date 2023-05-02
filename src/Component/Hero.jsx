@@ -344,7 +344,7 @@ function Hero() {
               >
                 <img
                   src="https://mdbcdn.b-cdn.net/img/new/standard/people/191.webp"
-                  className="w-full"
+                  className="w-full" 
                   alt='not found'
                 />
                 <a href="#!">
@@ -363,7 +363,7 @@ function Hero() {
                 massa volutpat feugiat. Donec.
               </p>
               <a
-                href="/video"
+                href="!"
                 data-mdb-ripple="true"
                 data-mdb-ripple-color="light"
                 className="inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
@@ -375,9 +375,7 @@ function Hero() {
         </div>
       </div>
     </section>
-    {/* Section: Design Block */}
   </div>
-  {/* Container for demo purpose */}
 </>
 
   

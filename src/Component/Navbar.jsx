@@ -99,7 +99,7 @@ export default function Navbar() {
             />
           </NavLink>
           <div>
-            <NavLink class="inline-block text-sm px-4 py-2 leading-none border    rounded text-white hover:bg-orange-600  lg:mt-0 ml-9" to="/signup">Sign In</NavLink>
+            <NavLink class="inline-block text-sm px-4 py-2 leading-none border-orange-600 text-white hover:bg-orange-600  lg:mt-0 ml-9" to="/signup">Sign In</NavLink>
           </div>
         </div>
       </div>
