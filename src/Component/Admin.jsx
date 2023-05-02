@@ -16,7 +16,7 @@ function Admin() {
       <div className="sm:col-span-2">
         <div className="space-y-4">
           <div className="text-lg leading-6 font-medium space-y-1">
-            <h1 className="text-2xl font-bold">Aadu Malu</h1>
+            <h1 className="text-2xl font-bold">Dhruvil</h1>
             <p className="text-gray-500">Web Developer</p>
           </div>
           <div className="text-lg">
