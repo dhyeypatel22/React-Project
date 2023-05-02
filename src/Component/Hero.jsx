@@ -46,7 +46,6 @@ function Hero() {
                 href="/details"
                 role="button"
               >
-                Learn more
               </a>
             </div>
           </div>
