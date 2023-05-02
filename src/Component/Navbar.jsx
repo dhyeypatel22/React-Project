@@ -54,7 +54,7 @@ export default function Navbar() {
               to="/details"
               data-te-nav-link-ref=""
             >
-              Details
+              Detailss
             </NavLink>
           </li>
           <li className="my-4 lg:my-0 lg:pr-2 ml-3" data-te-nav-item-ref="">
