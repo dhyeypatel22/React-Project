@@ -88,7 +88,7 @@ export default function Projects() {
             </svg>
           </div>
           <div className="p-6">
-            <h5 className="font-bold text-lg mb-3">Winter wildlife</h5>
+            <h5 className="font-bold text-lg mb-3">Dhruvil</h5>
             <p className="mb-4 pb-2">
               Suspendisse in volutpat massa. Nulla facilisi. Sed aliquet diam
               orci, nec ornare metus semper sed. Integer volutpat ornare erat
